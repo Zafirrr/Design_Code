@@ -1,0 +1,3 @@
+name: Zaf Geo
+markdown: redcarpet
+exclude: ["node_modules", "gulpfile.js", "package.json"]
